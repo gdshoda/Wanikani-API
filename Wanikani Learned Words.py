@@ -13,7 +13,7 @@ from datetime import datetime
 
 
 #assigning my API token to a variable
-API_TOKEN = "4bad81c8-a0b2-4002-b45b-92751649ce6c"
+API_TOKEN = ""
 
 
 # In[31]:
